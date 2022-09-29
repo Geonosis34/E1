@@ -1,0 +1,41 @@
+h1 {color : red}
+p {color : red}
+nav {color : red}
+
+body {
+    background-image:
+        url("https://getwallpapers.com/wallpaper/full/5/0/d/84381.jpg");
+        background-repeat: no-repeat;
+    front-family: Verdana;
+    front-size: medium;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 10px 10px 10px:
+}
+
+.header img {
+  align: left;
+  padding: 1rem 1rem 1rem 0;
+}
+
+.text {
+  padding: 60px;
+
+}
+
+.change-color-link{
+  color: #f66d52;
+  font-size: 2em;
+  font-weight: bold;
+  padding: 20px 0px;
+  line-height: 1;
+  text-decoration: none;
+  -webkit-transition: all 1s ease;
+          transition: all 1s ease;
+}
+.change-color-link:hover{
+  color: #ffa000;
+}
+
